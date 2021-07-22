@@ -1,0 +1,39 @@
+{
+    "articles": [
+        {
+        "title": "Grupo Primo",
+        "slug": "grupo-primo-77x48k",
+        "body": "Follow @thiago.nigro on Instagram",
+        "createdAt": "2021-07-21T04:26:51.326Z",
+        "updatedAt": "2021-07-21T04:26:51.326Z",
+        "tagList": [],
+        "description": "Best investment and entrepreneur content",
+        "author": {
+            "username": "Grupo Primo",
+            "bio": null,
+            "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+            "following": false
+        },
+        "favorited": false,
+        "favoritesCount": 1
+        },
+        {
+        "title": "Article one ",
+        "slug": "article-one-r1lmem",
+        "body": "Create a new article via post",
+        "createdAt": "2021-07-21T04:11:21.006Z",
+        "updatedAt": "2021-07-21T04:11:21.006Z",
+        "tagList": [],
+        "description": "test new article",
+        "author": {
+            "username": "bolof003",
+            "bio": null,
+            "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+            "following": false
+        },
+        "favorited": false,
+        "favoritesCount": 50
+        }
+    ],
+    "articlesCount": 500
+}

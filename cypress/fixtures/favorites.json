@@ -1,0 +1,19 @@
+{
+    "article": {
+        "title": "Article created by Cypress test",
+        "slug": "article-created-by-cypress-test-1lilar",
+        "body": "This article is created with Cypress. See code here: https://github.com/helenanull/cypress-example",
+        "createdAt": "2021-07-21T07:08:35.855Z",
+        "updatedAt": "2021-07-21T07:08:35.855Z",
+        "tagList": ["test-automation", "simple", "cypress"],
+        "description": "https://github.com/helenanull/cypress-example",
+        "author": {
+        "username": "cy328699091",
+        "bio": null,
+        "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+        "following": false
+        },
+        "favorited": true,
+        "favoritesCount": 2
+    }
+}
